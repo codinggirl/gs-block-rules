@@ -1,4 +1,4 @@
 #
 
 mkdir -p dist
-cat src/* | sort > dist/rule.txt
+cat src/* | sort > dist/rules.txt
