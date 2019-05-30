@@ -1,0 +1,27 @@
+{
+  "name": "website-blacklist",
+  "version": "0.0.0",
+  "description": "A blacklist for webistes.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "inquirer": "^6.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build-ublacklist": "scripts/build.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codinggirl/website-blacklist.git"
+  },
+  "author": "Richard Libre",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codinggirl/website-blacklist/issues"
+  },
+  "homepage": "https://github.com/codinggirl/website-blacklist#readme"
+}
