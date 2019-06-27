@@ -3,9 +3,6 @@
   "version": "0.0.0",
   "description": "A blacklist for webistes.",
   "main": "index.js",
-  "directories": {
-    "doc": "docs"
-  },
   "dependencies": {
     "inquirer": "^6.2.2",
     "marko": "^4.18.0"
@@ -13,7 +10,8 @@
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "scripts/build.sh"
+    "format": "node script/format.js",
+    "build": "node script/build.js"
   },
   "repository": {
     "type": "git",
