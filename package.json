@@ -8,6 +8,7 @@
   },
   "scripts": {
     "test": "jest",
+    "start": "npm run format && npm run build",
     "format": "node script/format.js",
     "build": "node script/build.js"
   },

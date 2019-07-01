@@ -28,7 +28,7 @@ function main() {
                 fs.mkdirSync(outDir)
             }
             let outPath = path.resolve(__dirname, '../dist', path.basename(inPath))
-            fs.writeFileSync(outPath, sortedItems.join('\n'))
+            fs.writeFileSync(outPath, sortedItems.join('\n') + '\n')
         }
     })
 }

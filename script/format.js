@@ -16,7 +16,7 @@ function main() {
             let items = data.split('\n').filter(v => v.trim() != '')
             let sortedItems = items.sort().filter((v, i, a) => a.indexOf(v) === i)
 
-            fs.writeFileSync(uri, sortedItems.join('\n'))
+            fs.writeFileSync(uri, sortedItems.join('\n') + '\n')
         }
     })
 }
