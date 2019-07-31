@@ -4,10 +4,10 @@ const fs = require('fs')
 const path = require('path')
 
 const files = [
-    "blacklist/domain.txt",
-    "blacklist/url.txt"
+    "blacklist.txt"
 ]
 
+// sort the patterns & unique the items
 function main() {
     files.map(filePath => {
         const uri = path.resolve(__dirname, '../', filePath)
