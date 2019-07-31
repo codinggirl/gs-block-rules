@@ -1,74 +1,54 @@
 # webiste-blacklist
 
-网站黑名单。
+Google 搜索结果黑名单。屏蔽低质量站点，把更多时间浪费在美好的事物上。
 
-用来屏蔽 Google 搜索结果的网站黑名单。通过屏蔽低质量的站点，我们可以把更多的时间浪费在美好的事物上。
+## 使用
 
-## 为什么需要屏蔽一些网站和网页？
-
-以下类型的网站，会浪费大量不必要的时间，因此予以屏蔽。
-
-- 搜索相关度低
-- 赌博、诈骗网站
-- 低质量内容、语句生硬、机器翻译的
-- 复制、抄袭内容
-- 页面丑陋
-- 页面广告多、遮盖内容
-- 加载缓慢
-
-## Blacklist
-
-Blacklist on the `blocklist` directory.
-
-Each files on the directory and its purpose:
-
-- `domain.txt` domain blacklist for websites
-- `pattern.txt` url pattern blacklist for urls
-- `regexp.txt` regular express blacklist for urls
-- `url.txt` pure url blacklist
-
-We use `#` sign line for make notes.
-
-## How to use
-
-### Build your own blacklist repo
-
-- fork this repo, or clone it to your local machine.
-- update `blacklist` files
-- build, use it in your own blacklist tools.
-
-### Build
-
-The build process will remove the notes, and sort items, remove duplicate items.
-
-Finally, it outputs the rules file that blacklist tools could use.
-
-Your can do this by a script, or by hands.
-
-## Background technical infomation
-
-To learn more about Rule pattens and Regular Expressons, please see:
-
-MDN: [match patterns](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Match_patterns)
-
-MDN: [regular expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)
-
-## Blacklist tools
-
-Before, we could use Google's Personal Blocklist chrome plugin, but it not works correctly later (works only in http urls. https will no effect.). For now, Google 
-removed it from the Webstore.
-
-So we found some third party plugins, maybe it's usefull.
-
-### iorate:uBlacklist
+我们使用 iorate 编写的软件 uBlacklist。
 
 [Chrome Web Store](https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe) -
 [GitHub Repo](https://github.com/iorate/uBlacklist) -
 [GitHub Releases](https://github.com/iorate/uBlacklist/releases)
 
+Folk the repo, and update to fit your needs.
+
+### update blacklist
+
+`blacklist.txt` is the blacklist file, it contains url patterns or regular expresses.
+
+To learn more about Rule pattens and Regular Expressons, please see:
+
+- MDN: [match patterns](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Match_patterns)
+- MDN: [regular expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)
+
+### sort and unique
+
+```
+npm run format
+```
+
+### 订阅地址
+
+```
+https://raw.githubusercontent.com/codinggirl/website-blacklist/master/blacklist.txt
+```
+
+## 什么样的网站会被屏蔽
+
+- 搜索相关度低
+- 赌博
+- 诈骗
+- 低质量内容、语句生硬、机器翻译
+- 复制、抄袭内容
+- 页面丑陋
+- 页面广告多、遮盖内容
+- 加载缓慢
+- 区块链
+- 中国政府网站
+
 ## Contribution
 
-As of this repo is for my persional use, PRs are not accept, but feel free to fork, modify for your needs.
+本项目不接收共享。如果你有修改需要，请自行 folk，并依据自身需求修改。
 
 ## License
 
