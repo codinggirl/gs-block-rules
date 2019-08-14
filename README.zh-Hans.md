@@ -35,6 +35,7 @@ https://raw.githubusercontent.com/codinggirl/website-blacklist/master/blacklist.
 
 ## 什么样的网站会被屏蔽
 
+- 需要登录后查看、请回复后查看、请验证手机后查看、请开通会员后查看、请手机扫码后登陆查看
 - 搜索相关度低
 - 赌博
 - 诈骗
