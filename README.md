@@ -1,41 +1,44 @@
 # webiste-blacklist
 
-We use this blacklist to block some sites in Google Search.
-
-[English](README.md) - [中文](README.zh-Hans.md)
-
-By block some sites, we may spend less time on useless websites.
+A website blacklist. We use it to block low sites in Google search results.
 
 ## Usage
 
-We use iorate's uBlacklist.
+### Install Google Chrome extension
 
+uBlacklist: 
 [Chrome Web Store](https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe) -
-[GitHub Repo](https://github.com/iorate/uBlacklist) -
-[GitHub Releases](https://github.com/iorate/uBlacklist/releases)
+[GitHub Repo](https://github.com/iorate/uBlacklist)
 
-Folk the repo, and update to fit your needs.
+### Folk this repo, update blacklist to fit your needs
 
-### update blacklist
+`blacklist.txt` contains rules, it may be url patterns or regular expresses.
 
-`blacklist.txt` is the blacklist file, it contains url patterns or regular expresses.
+Learn more: 
+[match patterns](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Match_patterns) -
+[regular expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)
 
-To learn more about Rule pattens and Regular Expressons, please see:
-
-- MDN: [match patterns](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Match_patterns)
-- MDN: [regular expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)
-
-### sort and unique
+### Build a dist file
 
 ```
-npm run format
+npm run build
 ```
 
-### Subscribe url
+### Subscribe url from extension from GitHub or NPM.
+
+The `blacklist.dist.txt` file is for subscribe use.
+
+e.g., use a gh url:
 
 ```
-https://raw.githubusercontent.com/codinggirl/website-blacklist/master/blacklist.txt
+https://raw.githubusercontent.com/codinggirl/website-blacklist/master/blacklist.dist.txt
 ```
+
+Your can also submit to npm, and ref a link via `unpkg`.
+
+### Enjoy your web search.
+
+Google search results now clean.
 
 ## Contribution
 

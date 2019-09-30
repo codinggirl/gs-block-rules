@@ -8,8 +8,8 @@
   },
   "scripts": {
     "test": "jest",
-    "start": "npm run format",
-    "format": "node script/format.js"
+    "start": "npm run build",
+    "build": "node script/build.js"
   },
   "repository": {
     "type": "git",
