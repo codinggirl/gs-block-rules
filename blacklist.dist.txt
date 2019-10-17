@@ -17390,10 +17390,12 @@
 *://bbs.zhibo8.cc/*
 *://bc.jrj.com.cn/*
 *://bcsky.pro/*
+*://bid2.szu.edu.cn/*
 *://bihu.com/*
 *://bitcointalk.org/*
 *://bjmingshan.com.cn/*
 *://bjmklh.com/*
+*://blackfucksbabe.com/*
 *://blog.cocoachina.com/*
 *://blog.fundebug.com/*
 *://blog.sciencenet.cn/*
@@ -17443,6 +17445,7 @@
 *://docs.cocos.com/*
 *://download.cnet.com/*
 *://download.kugou.com/*
+*://dreamcsx.com/*
 *://dyrb.zjol.com.cn/*
 *://ebs.ckcest.cn/*
 *://edu.pcbaby.com.cn/*
@@ -17470,6 +17473,7 @@
 *://ftp.foe.org.hk/*
 *://ftp.hkgpao.com/*
 *://fund.cfi.cn/*
+*://funny-video-online.com/*
 *://gdltn.com/*
 *://getphonesnum.com/*
 *://gfw-weinbewertung.de/*
@@ -17497,12 +17501,14 @@
 *://hk.crntt.com/*
 *://hk.news.appledaily.com/*
 *://hk.thenewslens.com/*
+*://hlj.rednet.cn/*
 *://home.dealsaving.com/*
 *://home.meishichina.com/*
 *://hongchangqizhong.com/*
 *://hotel-lagent.jp/*
 *://hukai.me/*
 *://idplayer.info/*
+*://img.jiahes.com/*
 *://iost.io/*
 *://it.njd1.com/*
 *://item.yiyaojd.com/*
@@ -17543,6 +17549,7 @@
 *://look01.com/*
 *://lskp.cvtvcn.com/*
 *://luotuocn.com/*
+*://m.100xs.com/*
 *://m.12zw.com/*
 *://m.230book.com/*
 *://m.23wx.cm/*
@@ -17582,9 +17589,11 @@
 *://m.qupu114.com/*
 *://m.redbull.com.cn/*
 *://m.rzlib.net/*
+*://m.v314uzi.tw/*
 *://m.wanshuwo.com/*
 *://m.wantgoo.com/*
 *://m.win7999.com/*
+*://m.wkft.uk.com/*
 *://m.wxjyw.com.cn/*
 *://m.xp.cn/*
 *://m.xshangshu.com/*
@@ -17615,6 +17624,7 @@
 *://netsmell.com/*
 *://newgame.17173.com/*
 *://news.7k7k.com/*
+*://news.agentm.tw/*
 *://news.artron.net/*
 *://news.bitauto.com/*
 *://news.bjx.com.cn/*
@@ -17637,13 +17647,17 @@
 *://news.shm.com.cn/*
 *://news.stcn.com/*
 *://news.tourl.net/*
+*://news.tvbs.com.tw/*
 *://news.yxrb.net/*
 *://news.yznews.com.cn/*
+*://news.zhibo8.cc/*
 *://newsxmwb.xinmin.cn/*
 *://ngabbs.com/*
 *://njvbc.com/*
+*://nooureleslam.com/*
 *://npm.runkit.com/*
 *://oa.yesky.com/*
+*://ohcc.cc/*
 *://ohkura-shop.com/*
 *://ojooo.com/*
 *://onezuan.com/*
@@ -17662,6 +17676,7 @@
 *://post.smzdm.com/*
 *://puxinbao.net/*
 *://qaru.site/*
+*://qipai.coms.hk/*
 *://quf.cn/*
 *://quming.huangli.cc/*
 *://raw.githubusercontent.com/*
@@ -17675,6 +17690,7 @@
 *://ruby-china.org/*
 *://ruimoku.zinbun.kyoto-u.ac.jp/*
 *://run.surex.cn/*
+*://rust.cc/*
 *://ryaoguoji.com/*
 *://s.geekbang.org/*
 *://s.zol.com.cn/*
@@ -17692,6 +17708,7 @@
 *://smart.businessweekly.com.tw/*
 *://so.cntv.cn/*
 *://special.hkjc.com/*
+*://sufak.ru/*
 *://sxcentaline.com/*
 *://szhaka.cn/*
 *://sznews.zjol.com.cn/*
@@ -17705,6 +17722,7 @@
 *://theoutlet.ru/*
 *://thestandnews.com/*
 *://think.szonline.net/*
+*://times.hinet.net/*
 *://tl.job1001.com/*
 *://tncbilling.com/*
 *://tomahawkconference.org/*
@@ -17719,6 +17737,7 @@
 *://tw.appledaily.com/*
 *://tw.news.yahoo.com/*
 *://twitter.com/*
+*://uptime55.ru/*
 *://user.guancha.cn/*
 *://vanloctotalpacking.com/*
 *://vcbeat.top/*
@@ -17733,11 +17752,15 @@
 *://waaaat.com/*
 *://wall.roomage.com/*
 *://wangyoubaoliao.com/*
+*://wap.1907s736t.com.cn/*
 *://wap.kgqf.uk.com/*
 *://wap.rueiyuan.com.cn/*
+*://wap.uoblfqj.tw/*
 *://wap.yessk.com.cn/*
+*://wap.yuaijia.net.cn/*
 *://wap.zhuishubang.com/*
 *://weibo.com.seotutu.com/*
+*://weixiaozao.com/*
 *://weixin.3hk.cn/*
 *://wemp.app/*
 *://wen.woshipm.com/*
@@ -17766,6 +17789,7 @@
 *://www.17jita.com/*
 *://www.17ky.net/*
 *://www.180xsw.com/*
+*://www.1bull666.com/*
 *://www.1ptg.com/*
 *://www.2030txt.com/*
 *://www.2114.com/*
@@ -17781,6 +17805,7 @@
 *://www.4330.cn/*
 *://www.45it.com/*
 *://www.45ma.com/*
+*://www.4blc.com/*
 *://www.4way.tw/*
 *://www.51huawuyou.com/*
 *://www.520yycp.com/*
@@ -17814,6 +17839,7 @@
 *://www.9191boke.com/*
 *://www.9666.cn/*
 *://www.9k9k.com/*
+*://www.a568.net/*
 *://www.abjumping.com/*
 *://www.abuys.net/*
 *://www.acfun.cn/*
@@ -17921,6 +17947,7 @@
 *://www.cnetsec.com/*
 *://www.cnncee.cn/*
 *://www.cnqjc.com/*
+*://www.cofeji.com/*
 *://www.coinsvc.com/*
 *://www.coinvoice.cn/*
 *://www.comra.org/*
@@ -17941,9 +17968,11 @@
 *://www.dajiazhao.com/*
 *://www.dawnrays.com/*
 *://www.dazd.cn/*
+*://www.deaking.cn/*
 *://www.dealmoon.cn/*
 *://www.dealmoon.com/*
 *://www.debug8.com/*
+*://www.dfpiaoliu.com/*
 *://www.digitalcl.com/*
 *://www.dingfazx.com/*
 *://www.dinghuizb.com/*
@@ -18006,6 +18035,7 @@
 *://www.geekpark.net/*
 *://www.gefran.com/*
 *://www.gendan5.com/*
+*://www.gfdj56.com/*
 *://www.gfname.com/*
 *://www.gfw-international.com/*
 *://www.gfw-windenergie.de/*
@@ -18059,7 +18089,11 @@
 *://www.hgfc.cc/*
 *://www.hi1718.com/*
 *://www.hjgs360.com/*
+*://www.hk-tianbo.com/*
+*://www.hnfyzx.com/*
+*://www.hnit.net/*
 *://www.hnntv.cn/*
+*://www.holaedna.com/*
 *://www.hongfen.org/*
 *://www.hotbit.io/*
 *://www.howai.cn/*
@@ -18212,6 +18246,7 @@
 *://www.njvbc.com/*
 *://www.nltsgc.net/*
 *://www.nmweifeng.com/*
+*://www.nownews.com/*
 *://www.nujournal.com/*
 *://www.nz86.com/*
 *://www.o-o-o.link/*
@@ -18292,6 +18327,7 @@
 *://www.shihuo.cn/*
 *://www.shine.cn/*
 *://www.shuaijiao.com/*
+*://www.shuimiao.net/*
 *://www.shujike.com/*
 *://www.shuquge.com/*
 *://www.shuxuele.com/*
@@ -18302,6 +18338,7 @@
 *://www.sjht4s.com/*
 *://www.smzdz.net/*
 *://www.socaller.com/*
+*://www.soeasyjc.com/*
 *://www.sounu.com/*
 *://www.stl56.com/*
 *://www.storm.mg/*
@@ -18314,6 +18351,7 @@
 *://www.synergy-sl.com/*
 *://www.szcredit.org.cn/*
 *://www.szdgch.com/*
+*://www.szhwzy.com/*
 *://www.szticai.com/*
 *://www.sztspi.com/*
 *://www.takungpao.com.hk/*
@@ -18364,10 +18402,12 @@
 *://www.voycn.com/*
 *://www.vrzy.com/*
 *://www.vuejs.cn/*
+*://www.w3cplus.com/*
 *://www.w3cschool.cn/*
 *://www.walian.cn/*
 *://www.wandouip.com/*
 *://www.wangjubao.com/*
+*://www.wartasport.com/*
 *://www.weivb.com/*
 *://www.wellnylon.com/*
 *://www.wenming.cn/*
@@ -18417,6 +18457,8 @@
 *://www.yak-hotel.com/*
 *://www.ybty.com/*
 *://www.ycgg06.com/*
+*://www.yessk.com.cn/*
+*://www.yezi.cn/*
 *://www.yibenchain.com/*
 *://www.yidianzixun.com/*
 *://www.yinxiang.com/*
@@ -18427,6 +18469,7 @@
 *://www.youxixj.com/*
 *://www.ytszg.com/*
 *://www.yunnan.cn/*
+*://www.yuntuwang.net/*
 *://www.yurisprudensi.com/*
 *://www.yushuwu.info/*
 *://www.yushuwuwx.com/*
@@ -18437,6 +18480,7 @@
 *://www.zglegal.com/*
 *://www.zgshyssc.com/*
 *://www.zgyihezhan.com/*
+*://www.zhaishuyuan.com/*
 *://www.zhaizou.com/*
 *://www.zhangshengrong.com/*
 *://www.zhenhualy.com/*
@@ -18459,6 +18503,7 @@
 *://www.zyshow.net/*
 *://www.zyyc888.com/*
 *://www2.deloitte.com/*
+*://wwww.huxiu.com/*
 *://xiaoqiang99.cn/*
 *://xihuaguibag.cn/*
 *://yaoming8.cn/*
