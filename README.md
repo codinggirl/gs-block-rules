@@ -40,6 +40,12 @@ Your can also submit to npm, and ref a link via `unpkg`.
 
 Google search results now clean.
 
+## TODO
+
+- [ ] add gh pages for docs & dist hosting
+- [ ] add deploy script
+- [ ] more hosting options
+
 ## Contribution
 
 As of this repo is for my persional use, PRs are not accept, but feel free to fork, modify for your needs.
