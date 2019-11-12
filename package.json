@@ -4,12 +4,13 @@
   "description": "A blacklist for webistes.",
   "main": "index.js",
   "devDependencies": {
+    "@types/jest": "^24.0.22",
     "jest": "^24.9.0"
   },
   "scripts": {
     "test": "jest",
     "start": "npm run build",
-    "build": "node script/build.js"
+    "build": "node scripts/build.js"
   },
   "repository": {
     "type": "git",
