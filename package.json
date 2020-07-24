@@ -4,7 +4,7 @@
   "description": "A blacklist for webistes.",
   "main": "index.js",
   "devDependencies": {
-    "@types/jest": "^24.0.22",
+    "@types/jest": "^26.0.7",
     "jest": "^24.9.0"
   },
   "scripts": {
