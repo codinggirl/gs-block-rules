@@ -1,0 +1,6 @@
+remote_theme : "manid2/lone-wolf-theme"
+
+lang: "zh-Hans"
+title: "网站禁止名单 Website Denylist"
+description: "将一些网站、网站域名写入此名单，利用自动化程序进行技术屏蔽"
+author: codinggirl
